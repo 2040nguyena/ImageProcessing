@@ -1,6 +1,6 @@
 #This project performs sharpening algorithm on GPU to investigate investigate the relationship between total processing time and throughput with increasing problem sizes. 
 
-#The datasets of 15GB are included under cuda-image-processing-master/images/trains12G as well as cuda-image-processing-master/images/trainsTemp
+#The datasets of 15GB used are from ImageNet. 
 
 #NOTE: the algorithms are developed by user /thomasplantin. He run his algorithm using CUDA on 1 image (lena_rgb.png). Below are his notes: 
 
